@@ -1,3 +1,5 @@
+This project has moved to https://github.com/Jonarw/DspSharp!
+
 ## filter
 API for digital signal processing in C#. Developed in the context of a project thesis at TU Graz.
 
